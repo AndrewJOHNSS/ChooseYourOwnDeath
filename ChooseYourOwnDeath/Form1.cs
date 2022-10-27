@@ -24,6 +24,7 @@ namespace ChooseYourOwnDeath
             labelA.Text = "Run and help";
             labelB.Text = "Run and be ready to attack";
             labelC.Text = "Sleep, it's not your problem";
+            pictureBox1.Image = (Properties.Resources._3a91ebcbcc5a7ad2ead01acd99b9d6a9);
         }
 
         private void buttonA_Click(object sender, EventArgs e)
