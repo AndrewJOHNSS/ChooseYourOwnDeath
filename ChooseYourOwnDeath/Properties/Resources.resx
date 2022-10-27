@@ -118,13 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="best_horror_movies_2015_entity_elarogers23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\best-horror-movies-2015-entity-elarogers23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d224b617a5bfa4c4d092f5fc97fc6135__movie_titles_the_end" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d224b617a5bfa4c4d092f5fc97fc6135--movie-titles-the-end.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="foghorn_daniel_simon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\foghorn-daniel_simon.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HorrorLivingRoom_featured_894x488_893351c563f7ea8c3c9423526bfca9bc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HorrorLivingRoom_featured-894x488-893351c563f7ea8c3c9423526bfca9bc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sms_alert_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sms-alert-5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="string_tension_mike_koenig" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\string_tension-mike-koenig.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="The_4_Most_Famous_Basements_in_Movie_History_ft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The-4-Most-Famous-Basements-in-Movie-History_ft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_3a91ebcbcc5a7ad2ead01acd99b9d6a9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3a91ebcbcc5a7ad2ead01acd99b9d6a9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -61,11 +61,51 @@ namespace ChooseYourOwnDeath.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3a91ebcbcc5a7ad2ead01acd99b9d6a9 {
+            get {
+                object obj = ResourceManager.GetObject("_3a91ebcbcc5a7ad2ead01acd99b9d6a9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap best_horror_movies_2015_entity_elarogers23 {
+            get {
+                object obj = ResourceManager.GetObject("best_horror_movies_2015_entity_elarogers23", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d224b617a5bfa4c4d092f5fc97fc6135__movie_titles_the_end {
+            get {
+                object obj = ResourceManager.GetObject("d224b617a5bfa4c4d092f5fc97fc6135__movie_titles_the_end", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
         internal static System.IO.UnmanagedMemoryStream foghorn_daniel_simon {
             get {
                 return ResourceManager.GetStream("foghorn_daniel_simon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HorrorLivingRoom_featured_894x488_893351c563f7ea8c3c9423526bfca9bc {
+            get {
+                object obj = ResourceManager.GetObject("HorrorLivingRoom_featured_894x488_893351c563f7ea8c3c9423526bfca9bc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -84,6 +124,16 @@ namespace ChooseYourOwnDeath.Properties {
         internal static System.IO.UnmanagedMemoryStream string_tension_mike_koenig {
             get {
                 return ResourceManager.GetStream("string_tension_mike_koenig", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap The_4_Most_Famous_Basements_in_Movie_History_ft {
+            get {
+                object obj = ResourceManager.GetObject("The_4_Most_Famous_Basements_in_Movie_History_ft", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

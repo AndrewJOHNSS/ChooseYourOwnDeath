@@ -89,5 +89,20 @@
   <ItemGroup>
     <None Include="Resources\sms-alert-5.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HorrorLivingRoom_featured-894x488-893351c563f7ea8c3c9423526bfca9bc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3a91ebcbcc5a7ad2ead01acd99b9d6a9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best-horror-movies-2015-entity-elarogers23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The-4-Most-Famous-Basements-in-Movie-History_ft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d224b617a5bfa4c4d092f5fc97fc6135--movie-titles-the-end.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
